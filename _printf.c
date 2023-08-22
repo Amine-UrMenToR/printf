@@ -9,7 +9,7 @@ int _printf(const char *format, ...)
 
     va_start(args, format);
 
-    // Implement _printf logic here
+    /* Implement _printf logic here */
 
     va_end(args);
 
